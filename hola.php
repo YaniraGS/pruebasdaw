@@ -6,6 +6,6 @@
     <title>Primer PHP</title>
 </head>
 <body>
- <?php echo "Hola Paco campeon!!!"?>   
+ <?php echo "Hola Paco campeon, que pasa maquina!!!"?>   
 </body>
 </html>
